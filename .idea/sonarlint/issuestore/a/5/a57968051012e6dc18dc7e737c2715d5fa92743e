@@ -1,0 +1,15 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "tests".(Üòû‹şÿÿÿÿ8Ù›åöÃ.
+Z
+java:S1854"=Remove this useless assignment to local variable "arraySize".(æš”ç8Ù›åöÃ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†¾°…ùÿÿÿÿ8¹ÄÜöÃ.
+L
+java:S1481"*Remove this unused "tests" local variable.(Üòû‹şÿÿÿÿ8Ù›åöÃ.
+D	java:S108'")Either remove or fill this block of code.(Ù’Ìl8şÏøöÃ.
+M
+java:S1481"0Remove this unused "outputArray" local variable.(‡½¥â8¥µñöÃ.
+\
+java:S1854"?Remove this useless assignment to local variable "outputArray".(‡½¥â8¥µñöÃ.
+K
+java:S1481".Remove this unused "arraySize" local variable.(æš”ç8Ù›åöÃ.

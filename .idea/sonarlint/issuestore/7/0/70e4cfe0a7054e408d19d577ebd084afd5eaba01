@@ -1,0 +1,7 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ŒÚ²„8ÃñÓÄ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Í»™8ÃñÓÄ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(”âŸR8ÃñÓÄ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â¿£ùşÿÿÿÿ8ÃñÓÄ.
+Q
+java:S1854"5Remove this useless assignment to local variable "y".(¤ÅÈ(8ÃñÓÄ.
